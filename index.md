@@ -1,3 +1,72 @@
+## Terms of use
+In order to provide you with better services, please read and fully understand this agreement before you start using our software and related services.
+If you do not agree to this agreement, the company will not be able to provide you with complete products and services, and you can also choose to stop using it. If you choose to agree or use our software and related services, you are deemed to have fully understood this agreement and agree to accept this agreement and other agreements and rules related to the software and related services.
+If you are under the age of 18, please read and fully understand this agreement accompanied by your legal guardian, and use our software and related services after obtaining the consent of the legal guardian.
+If you have any questions, comments or suggestions about the content of this agreement, you can contact us by sending an email to: anhuangwang@163.com.
+
+### Our software and related services
+1 Our software and related services can be downloaded by the third party authorized by the company to obtain our software client applications or visit our product related websites. If you do not obtain our software from the company's website or a third party authorized by the company, the company can not guarantee the normal use of the unofficial version of the software, and the loss you suffer is not related to the company.
+2 You can use our software and related services or update our product version according to your needs. If you no longer need to use our software and related services, you can also uninstall the corresponding application software yourself. (Please note: if it involves automatic renewal issues, please cancel the automatic subscription function in time by yourself, the relevant website https://support.apple.com/en-us/HT202039)
+3 Our products reserve the right to change these terms at any time. When we make major changes to the terms, we will provide you with a notice in an appropriate way. Please make sure that you have read the notice carefully in advance. If you continue to use our products and services after being notified of changes to these terms, it means that you agree and accept such changes. If you object to the change, you can stop using the services under the new version of these terms. Please check our "Terms of Service" and "Privacy Policy" from time to time.
+ 4 Except with the express prior written authorization of the company, you shall not make unauthorized access to or use our software and related services in any form, including but not limited to adaptation, reproduction, dissemination or transaction.
+5 In order to fully realize all the functions of our products, you may need to connect your terminal equipment to the Internet, and you need to bear the required expenses (such as traffic fees, Internet fees, etc.).
+6 Protecting users' personal information is one of the company's basic principles. For our products, the company does not have a legal relationship based on our software with any legal person, organization or other institution. The company works with you to protect your personal information (that is, information that can identify you independently or in combination with other information).
+
+### User behavior standards
+1 user behavior requirements
+You are responsible for your actions when using our software. Unless permitted by law or with the company's prior written permission, you may not use our software related services in the following ways:
+1.1Use any plug-in, plug-in, system or third-party tool that is not authorized or permitted by the company to interfere, destroy, modify or exert other influences on the normal operation of our product software and related services.
+1.2Use or target our product software and related services to conduct any behavior that endangers computer network security, including but not limited to:
+1.2.1 Activities that endanger network security such as illegal intrusion into the network, interference with normal network functions, and theft of network data;
+1.2.2 Provide programs and tools specially used to engage in network security activities such as intruding into the network, interfering with the normal network functions and protective measures, and stealing network data;
+1.2.3 Provide technical support, advertising promotion, payment settlement and other assistance if you know that others are engaged in activities that endanger network security;
+1.2.4 Using unauthorized data or accessing unauthorized servers / accounts;
+1.2.5 Enter into the public computer network or other people's computer system without permission and delete, modify or increase the stored information;
+1.2.6 Attempt to detect, scan and test the weakness of our product system or network without permission, or other behaviors that undermine network security;
+1.2.7 Attempt to interfere with and destroy the normal operation of our product system or website, deliberately spread malicious programs or viruses, and other behaviors that disrupt and interfere with normal network information services;
+1.2.8 Reverse engineer, reverse assemble, compile or otherwise attempt to discover the source code of software and related services;
+1.2.9 Other behaviors that violate laws and regulations, this agreement, relevant rules of the company and infringe upon the legitimate rights and interests of others.
+
+### Software information content usage specifications
+1.The content mentioned in this article refers to any content created, uploaded, copied, published, or disseminated during the user's use of this service, including but not limited to account avatar, name, user description and other registration information and authentication materials, or text, voice , Pictures, videos, graphics, etc. to send, reply or automatically reply to messages and related linked pages, as well as other content generated by using the account or this service.
+1.Users are not allowed to use the product to make, upload, copy, publish, or disseminate the following contents prohibited by laws, regulations and policies:
+(1) Those that oppose the basic principles established by the Constitution;
+(2) Endangering national security, leaking state secrets, subverting state power, and undermining national unity;
+(3) Damage to national honor and interests;
+(4) Inciting ethnic hatred, ethnic discrimination, and undermining ethnic unity;
+(5) Undermining the state's religious policies and promoting cults and feudal superstition;
+(6) Spreading rumors, disrupting social order, and undermining social stability;
+(7) Spreading obscenity, pornography, gambling, violence, murder, terror or instigating crime;
+(8) Insulting or slandering others, infringing on the lawful rights and interests of others;
+(9) Failure to comply with the requirements of laws and regulations, the bottom line of the socialist system, the bottom line of national interests, the bottom line of citizens' legitimate rights and interests, the bottom line of social public order, the bottom line of morality and the bottom line of information authenticity;
+(10) Information containing other content prohibited by laws and administrative regulations.
+3. Users are not allowed to make, upload, copy, publish and disseminate the following contents that interfere with the normal operation of the account and infringe upon the legitimate rights and interests of other users or third parties by using the products under the account:
+(1) Containing any sex or sexual suggestion; suggestive;
+(2) Containing abusive, threatening or threatening contents;
+(3) Containing harassment, spam advertising, malicious information, deception information;
+(4) Involving the privacy, personal information or data of others;
+(5) Infringing upon other people's legitimate rights such as reputation right, portrait right, intellectual property right, trade secret, etc;
+(6) Contains other contents that interfere with the normal operation of the service and infringe upon the legitimate rights and interests of other users or third parties 
+
+### Breach of the contract
+The company respects and protects the intellectual property rights, reputation rights, name rights, privacy rights and other legitimate rights and interests of users and others. When using our software and related services, the uploaded text, pictures, videos, audio, links, etc. will not infringe any third party's intellectual property rights, reputation rights, name rights, privacy rights and other rights and legitimate rights and interests. Otherwise, the company has the right to remove the suspected infringement content after receiving the notice from the right party or related parties. For all claims made by the third party, you shall handle and bear all legal liabilities that may arise therefrom; if the company and its affiliated parties and controlling companies suffer losses (including but not limited to economic and goodwill losses) caused by your infringement, you shall also fully compensate the company and its related parties, controlling company and successor company for all losses.
+
+### Modification, suspension and termination of user services
+5.1 the company can not foresee and prevent legal, technical and other risks at any time, including but not limited to service interruption and failure to use software and related services due to network reasons of force majeure, defects of third-party services, third-party websites and other reasons.
+5.2 in order to meet the needs of overall service operation and platform operation safety, the company has the right to determine the service / function setting and its scope modification, interruption, suspension or termination of our product software and related services according to the specific situation.
+Automatically renew subscription
+Unless you notify the software before the end of the applicable subscription period to cancel the service or upgrade, your subscription will automatically renew and authorize us to collect the then applicable annual or monthly subscription fees (and any taxes) using our records for you Any credit card or other payment mechanism. The subscription can be cancelled at any time. Please refer to the steps to cancel the automatic subscription: https://support.apple.com/en-us/HT202039
+
+### Advertising
+Our products may include advertisements. This is a reasonable and legal business model of our product company and its affiliates. You agree to receive publications by our product company and its affiliates or its third-party partners when using our products. Advertising information. After our product company and its affiliated companies fulfill their obligations regarding the release of advertising information in accordance with the provisions of the law, you shall determine the authenticity of the advertising information by yourself and be responsible for your own judgment. The company and its affiliates shall not be liable for any loss or damage suffered by the transaction or the content provided by the advertiser
+
+### Other
+1. Once again solemnly remind users to read carefully and consider the risks independently
+2. The validity, interpretation and dispute resolution of this agreement shall apply to the laws of the People's Republic of China. If any dispute or controversy occurs between the user and the developer, it should first be settled through friendly negotiation. If the negotiation fails, the user agrees to submit the dispute or dispute to the competent people’s court in the developer’s domicile.
+3. Any clause of this agreement is invalid or unenforceable for any reason, the remaining clauses are still valid and binding on both parties.
+4. Due to the rapid development of the Internet, the terms specified in this agreement signed by you and the developer may not be able to fully list and cover all the rights and obligations of you and the developer, and the existing agreement cannot guarantee that it will fully meet the needs of future development. Therefore, the privacy policy and platform code of conduct are all supplementary agreements to this agreement, which are inseparable from this agreement and have the same legal effect. If you use our services, you are deemed to agree to the above supplementary agreement.
+The contact method is anhuangwang@163.com.
+ 
 ## 服务条款
 
 为了更好地为您提供服务，请您在开始使用我们的软件及相关服务之前，请务必认真阅读并充分理解本协议。
