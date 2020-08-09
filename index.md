@@ -40,7 +40,7 @@ You are responsible for your actions when using our software. Unless permitted b
 (8) Insulting or slandering others, infringing on the lawful rights and interests of others;
 (9) Failure to comply with the requirements of laws and regulations, the bottom line of the socialist system, the bottom line of national interests, the bottom line of citizens' legitimate rights and interests, the bottom line of social public order, the bottom line of morality and the bottom line of information authenticity;
 (10) Information containing other content prohibited by laws and administrative regulations.
-3. Users are not allowed to make, upload, copy, publish and disseminate the following contents that interfere with the normal operation of the account and infringe upon the legitimate rights and interests of other users or third parties by using the products under the account:
+3.Users are not allowed to make, upload, copy, publish and disseminate the following contents that interfere with the normal operation of the account and infringe upon the legitimate rights and interests of other users or third parties by using the products under the account:
 (1) Containing any sex or sexual suggestion; suggestive;
 (2) Containing abusive, threatening or threatening contents;
 (3) Containing harassment, spam advertising, malicious information, deception information;
